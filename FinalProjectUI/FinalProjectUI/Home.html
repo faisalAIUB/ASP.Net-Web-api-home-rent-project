@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.3.1.js"></script>
+    <script src="Scripts/myscript.js"></script>
+</head>
+<body>
+    <div id="mainmanubar" class="container">
+        <ul class="nav nav-pills nav-justified ">
+            <li class="active">
+                <a href="#" id="home" class="btn-outline-primary">Home |</a>
+            </li>
+            <li>
+                <a href="#" id="login" class="btn-outline-primary"> Log In |</a>
+            </li>
+            <li><a href="#" id="signup" class="btn-outline-primary"> Sign Up |</a></li>
+            <li><a href="#" id="profile" class="btn-outline-primary"> Profile |</a></li>
+        </ul>
+    </div>
+    <div class="container" id="main">
+        <div id="showall" class="jumbotron">
+
+           <span id="msg"></span>
+        </div>
+    </div>
+    <div id="logindiv" class="container-fluid" style="display:none"> 
+                <div class="jumbotron">
+                    <h2>Log In</h2>
+                    <input type="text" id="emaillogin" placeholder="Email"/><br />
+                   <input type="password" id="passwordlogin" placeholder="Password" /><br />
+                    <button id="btnlogin">Log In</button>
+                    <span id="msglogin"></span>
+                </div>
+     </div>
+
+    <div id="signupdiv" class="container col-md-5">
+        <div class="jumbotron">
+            <h2>Sign Up</h2>
+            <div class="form-group col-md-5">
+                <input type="text" id="userName"  placeholder="Name" /><br />
+                <input type="text" id="email"  placeholder="Email" /><br />
+                <input type="text" id="phone"  placeholder="Phone" /><br />
+                <input type="password" id="password"  placeholder="Password" /><br />
+                <input type="radio" id="gender" value="male" checked> Male
+                <input type="radio" id="gender" value="female"> Female
+                <br />
+                <input type="date" id="dob"  /><br />
+                <input type="hidden"  id="deactive" value="0" /><br />
+            </div>
+            <button id="btnsignup">Sign Up</button>
+            <span id="msgsignup"></span>
+        </div>
+    </div>
+
+    
+    
+
+    <div id="profilediv" style="display:none">
+        fsdfsdfervs
+               <div id="showpersonalad" class="jumbotron">
+            <span id="msg"></span>
+        </div>
+        
+
+    </div>
+    
+
+
+        <script src="Scripts/jquery-3.3.1.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+</body>
+</html>

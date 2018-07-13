@@ -1,0 +1,8 @@
+G:\code\ASP.NET\FinalProject\ProjectInterface\bin\Debug\ProjectInterface.dll
+G:\code\ASP.NET\FinalProject\ProjectInterface\bin\Debug\ProjectInterface.pdb
+G:\code\ASP.NET\FinalProject\ProjectInterface\bin\Debug\ProjectEntity.dll
+G:\code\ASP.NET\FinalProject\ProjectInterface\bin\Debug\ProjectEntity.pdb
+G:\code\ASP.NET\FinalProject\ProjectInterface\obj\Debug\ProjectInterface.csprojResolveAssemblyReference.cache
+G:\code\ASP.NET\FinalProject\ProjectInterface\obj\Debug\ProjectInterface.csproj.CoreCompileInputs.cache
+G:\code\ASP.NET\FinalProject\ProjectInterface\obj\Debug\ProjectInterface.dll
+G:\code\ASP.NET\FinalProject\ProjectInterface\obj\Debug\ProjectInterface.pdb

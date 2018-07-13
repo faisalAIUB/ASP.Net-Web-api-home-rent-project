@@ -1,0 +1,10 @@
+G:\code\ASP.NET\FinalProject\ProjectEntity\obj\Debug\ProjectEntity.csprojResolveAssemblyReference.cache
+G:\code\ASP.NET\FinalProject\ProjectEntity\obj\Debug\ProjectEntity.csproj.CoreCompileInputs.cache
+G:\code\ASP.NET\FinalProject\ProjectEntity\bin\Debug\ProjectEntity.dll
+G:\code\ASP.NET\FinalProject\ProjectEntity\bin\Debug\ProjectEntity.pdb
+G:\code\ASP.NET\FinalProject\ProjectEntity\obj\Debug\ProjectEntity.dll
+G:\code\ASP.NET\FinalProject\ProjectEntity\obj\Debug\ProjectEntity.pdb
+G:\code\ASP.NET\FinalProject\ProjectEntity\bin\Debug\EntityFramework.dll
+G:\code\ASP.NET\FinalProject\ProjectEntity\bin\Debug\EntityFramework.SqlServer.dll
+G:\code\ASP.NET\FinalProject\ProjectEntity\bin\Debug\EntityFramework.xml
+G:\code\ASP.NET\FinalProject\ProjectEntity\bin\Debug\EntityFramework.SqlServer.xml

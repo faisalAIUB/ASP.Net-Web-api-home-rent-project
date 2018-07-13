@@ -1,0 +1,14 @@
+G:\code\ASP.NET\FinalProject\ProjectRepository\obj\Debug\ProjectRepository.csprojResolveAssemblyReference.cache
+G:\code\ASP.NET\FinalProject\ProjectRepository\obj\Debug\ProjectRepository.csproj.CoreCompileInputs.cache
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\ProjectRepository.dll
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\ProjectRepository.pdb
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\EntityFramework.dll
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\EntityFramework.SqlServer.dll
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\ProjectEntity.dll
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\ProjectInterface.dll
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\ProjectEntity.pdb
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\ProjectInterface.pdb
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\EntityFramework.xml
+G:\code\ASP.NET\FinalProject\ProjectRepository\bin\Debug\EntityFramework.SqlServer.xml
+G:\code\ASP.NET\FinalProject\ProjectRepository\obj\Debug\ProjectRepository.dll
+G:\code\ASP.NET\FinalProject\ProjectRepository\obj\Debug\ProjectRepository.pdb
